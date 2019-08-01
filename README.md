@@ -7,3 +7,9 @@ field, and theoretical studies include applications of volume averaging theories
 flow models, an analysis of solute and particle dispersion, and topics in soil physics, hydrology and 
 biogeochemical processes in streambeds and soils. We use PIV and PLIF in the lab and in the field 
 including a new underwater PIV system for coral reef flow research."
+
+Chosen images for demonstration :
+![alt text](https://github.com/Daniboy370/Flow-and-Hydraulics-Laboratory/blob/master/Reports/_possuper.png)
+
+![alt text](https://github.com/Daniboy370/Flow-and-Hydraulics-Laboratory/blob/master/Reports/plum_field.png)
+
